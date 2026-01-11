@@ -129,3 +129,8 @@ Usuários frequentemente abandonam aplicativos de finanças porque:
 - Avaliação da clareza da conversa.  
 - Feedback sobre relatórios e dicas.  
 ```
+
+---
+
+### 1.2. GIF mostrando a interação entre usuário e CoPilot.
+![prompt_inicial_e_resultado_final_PRD](https://github.com/user-attachments/assets/341329e4-6502-406e-8bb5-617eed1cb86d)
