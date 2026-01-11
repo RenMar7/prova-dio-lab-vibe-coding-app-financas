@@ -3,8 +3,7 @@ Aqui, baseado nas aulas assistidas de IA, do Bootcamp CAIXA - Inteligência Arti
 Para facilitar a leitura do Read.me, dividir as interações entre CoPilot e Lovable, além de inserir os vídeos, com as interações feitas em cada etapa, para verificar o funcionamento e como foram feitas.
 
 ## Usando o CoPilot, para aperfeiçoar o PRD desenvolvido:
-<div style="margin-left: 100px;">
-
+>
 ## 1. Prompt inicial utilizado com o CoPilot
 
 ```
@@ -136,4 +135,4 @@ Usuários frequentemente abandonam aplicativos de finanças porque:
 
 ### 1.2. GIF mostrando a interação entre usuário e CoPilot.
 ![prompt_inicial_e_resultado_final_PRD](https://github.com/user-attachments/assets/341329e4-6502-406e-8bb5-617eed1cb86d)
-</div>
+>
