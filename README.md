@@ -4,7 +4,6 @@ Criação de um aplicativo de finanças pessoais, com uso de **Vibe Coding**.
 ---
 
 ## 1. Prompt inicial utilizado
-Em conjunto com o PRD desenvolvido, foi obtida a resposta com o PRD analisado pelo Copilot:
 
 ```
 **Boa tarde, Copilot.**
