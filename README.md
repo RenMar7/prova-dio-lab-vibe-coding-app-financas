@@ -24,7 +24,6 @@ A ideia é facilitar o controle financeiro — de forma simples e natural — se
 Muitas pessoas desistem de controlar seus gastos, pois os apps atuais:
 - Exigem muita entrada manual, com diversas telas e opções.
 - Oferecem pouca personalização para as necessidades do usuário.
-
 **Objetivo:** Resolver isso com uma experiência de conversa e recomendações automáticas de economia, estimulando o usuário a atingir seus objetivos e desenvolver hábitos poupadores.
 
 ---
@@ -46,7 +45,7 @@ Muitas pessoas desistem de controlar seus gastos, pois os apps atuais:
 ```
 ---
 
-## 1.1. Prompt revisado pelo Copilot
+## 1.1. PRD revisado pelo Copilot, após o prompt inicial acima
 ```
 ### 📱 PRD Revisado – Aplicativo de Organização de Finanças Pessoais Conversacional
 
