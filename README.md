@@ -6,8 +6,7 @@ Para facilitar a leitura do Read.me, dividir as interações entre CoPilot e Lov
 >
 #### 1. Prompt inicial utilizado com o CoPilot
 
-```
-Boa tarde, Copilot.
+>Boa tarde, Copilot.
 
 Criei o seguinte PRD (Product Requirements Document), para ser utilizado com a plataforma **Lovable**, para a criação de um aplicativo de controle de finanças, onde o usuário irá interagir por meio de conversas naturais, visando ter maior controle sobre suas finanças, hábitos de consumo e como guardar dinheiro, para projetos futuros.  
 Baseado nas premissas acima, necessito que me ajude na revisão desse PRD, verificando a clareza dos itens; pensando em design UX limpo, claro e acessível para todos os usuários; além de que a conversa com o aplicativo flua de forma natural e tom amigável.  
