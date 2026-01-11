@@ -2,7 +2,7 @@
 Criação de um aplicativo de finanças pessoais, com uso de **Vibe Coding**.
 
 ---
-
+```
 ## 1. Prompt inicial utilizado
 Em conjunto com o PRD desenvolvido, foi obtida a resposta com o PRD analisado pelo Copilot:
 
@@ -47,7 +47,7 @@ Muitas pessoas desistem de controlar seus gastos, pois os apps atuais:
 - Visualizar relatórios simples e personalizados, com filtros por categorias, tipos, datas e entradas/saídas.  
 - Identificar gastos anormais, com valores fora do habitual.  
 - Avisar ao usuário em caso de desequilíbrio financeiro (ex.: recebeu R$500, mas gastou R$600).
-
+```
 ---
 
 ## 1.1. Prompt revisado pelo Copilot
