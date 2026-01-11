@@ -10,7 +10,7 @@ Para facilitar a leitura do Read.me, dividir as interações entre CoPilot e Lov
 Criei o seguinte PRD (Product Requirements Document), para ser utilizado com a plataforma **Lovable**, para a criação de um aplicativo de controle de finanças, onde o usuário irá interagir por meio de conversas naturais, visando ter maior controle sobre suas finanças, hábitos de consumo e como guardar dinheiro, para projetos futuros.  
 Baseado nas premissas acima, necessito que me ajude na revisão desse PRD, verificando a clareza dos itens; pensando em design UX limpo, claro e acessível para todos os usuários; além de que a conversa com o aplicativo flua de forma natural e tom amigável.  
 Me apresente o PRD com sua análise, e no final, coloque um resumo sintético de tudo que foi analisado, as mudanças efetuadas e explicação dos pontos fortes e o que foi melhorado do PRD original, conforme sua análise.
-````
+```
 ### Contexto
 Quero criar um aplicativo de **Organização de Finanças Pessoais** que funcione por meio de conversas com o usuário, em linguagem natural e tom amigável, para estimular o uso do aplicativo no dia-a-dia, para controle de todos os gastos e entradas de dinheiro.  
 A ideia é facilitar o controle financeiro — de forma simples e natural — sem a necessidade de usar formulários manuais ou planilhas complexas, otimizando a inserção dos dados por meio das conversas.
