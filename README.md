@@ -47,13 +47,13 @@ Muitas pessoas desistem de controlar seus gastos, pois os apps atuais:
 ---
 
 ## 1.1. Prompt revisado pelo Copilot
+```
 ### 📱 PRD Revisado – Aplicativo de Organização de Finanças Pessoais Conversacional
 
 ---
 
 ### Contexto
 O aplicativo será um **assistente financeiro pessoal**, que interage com o usuário por meio de conversas naturais e amigáveis, facilitando o controle de gastos e entradas de dinheiro sem burocracia.  
-
 A proposta é substituir formulários e planilhas complexas por uma experiência fluida de diálogo, tornando o processo de organização financeira mais simples, acessível e motivador.
 
 ---
@@ -129,3 +129,4 @@ Usuários frequentemente abandonam aplicativos de finanças porque:
 - Testes com usuários iniciantes.  
 - Avaliação da clareza da conversa.  
 - Feedback sobre relatórios e dicas.  
+```
