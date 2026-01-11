@@ -1,9 +1,11 @@
 # 🎯 Desafio - Entrega do PRD e Lovable
-Criação de um aplicativo de finanças pessoais, com uso de **Vibe Coding**.
+Aqui, baseado nas aulas assistidas de IA, do Bootcamp CAIXA - Inteligência Artificial na Prática, apresento o resultado final do meu projeto de criação de um aplicativo de finanças pessoais, com uso de **Vibe Coding**, com as ferramentas **CoPilot** e **Lovable**, para colocar em prática o aprendizado até o momento.
+Para facilitar a leitura do Read.me, dividir as interações entre CoPilot e Lovable, além de inserir os vídeos, com as interações feitas em cada etapa, para verificar o funcionamento e como foram feitas.
 
----
+## Usando o CoPilot, para aperfeiçoar o PRD desenvolvido:
+<div style="margin-left: 20px;">
 
-## 1. Prompt inicial utilizado
+## 1. Prompt inicial utilizado com o CoPilot
 
 ```
 Boa tarde, Copilot.
@@ -45,7 +47,7 @@ Muitas pessoas desistem de controlar seus gastos, pois os apps atuais:
 ```
 ---
 
-## 1.1. PRD revisado pelo Copilot, após o prompt inicial acima
+### 1.1. PRD revisado pelo Copilot, após o prompt inicial acima
 ```
 ### 📱 PRD Revisado – Aplicativo de Organização de Finanças Pessoais Conversacional
 
@@ -134,3 +136,4 @@ Usuários frequentemente abandonam aplicativos de finanças porque:
 
 ### 1.2. GIF mostrando a interação entre usuário e CoPilot.
 ![prompt_inicial_e_resultado_final_PRD](https://github.com/user-attachments/assets/341329e4-6502-406e-8bb5-617eed1cb86d)
+</div>
