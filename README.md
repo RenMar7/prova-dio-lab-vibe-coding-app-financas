@@ -138,9 +138,9 @@ Usuários frequentemente abandonam aplicativos de finanças porque:
 >Boa noite, Lovable.
 Crie um aplicativo de assistente de finanças pessoais, conforme o PRD (Product Requirement Document) abaixo:
 PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
->
+
 >Integrar IA real (Lovable AI) para processamento de linguagem natural mais avançado, detectando automaticamente categorias e dando respostas personalizadas.
->
+
 >O chat deve entender linguagem coloquial também, pois se falo 3k, significa 3000. Além disso, adicione uma tela de login, para a segurança do aplicativo
 
 Segue o link do aplicativo publicado na plataforma Lovable: https://buddy-finance-talk.lovable.app
