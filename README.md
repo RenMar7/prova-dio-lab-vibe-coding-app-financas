@@ -130,11 +130,27 @@ Usuários frequentemente abandonam aplicativos de finanças porque:
 
 ---
 
-## Usando o Lovable, para criar o aplciativo de assistente de finanças, a partir do PRD analisado pelo CoPilot
+## Usando o Lovable, para criar o aplicativo de assistente de finanças, a partir do PRD analisado pelo CoPilot
 
 
-#### 1. Prompt inicial do Lovable
+#### 1. Prompts usados no Lovable
 
 >Boa noite, Lovable.
 Crie um aplicativo de assistente de finanças pessoais, conforme o PRD (Product Requirement Document) abaixo:
 PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
+>Integrar IA real (Lovable AI) para processamento de linguagem natural mais avançado, detectando automaticamente categorias e dando respostas personalizadas.
+>O chat deve entender linguagem coloquial também, pois se falo 3k, significa 3000. Além disso, adicione uma tela de login, para a segurança do aplicativo
+
+Segue o link do aplicativo publicado na plataforma Lovable: https://buddy-finance-talk.lovable.app
+
+#### 2. Vídeos da interação com o Lovable e o aplicativo criado.
+
+Parte 1
+https://github.com/user-attachments/assets/6d1ca453-23b5-4850-8251-28c875c036d9
+
+Parte 2
+https://github.com/user-attachments/assets/10cf6d8f-bb40-460f-842c-f4a9c6993efe
+
+
+
+
