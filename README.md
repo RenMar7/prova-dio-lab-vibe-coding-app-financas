@@ -4,7 +4,7 @@ Para facilitar a leitura do Read.me, dividir as interações entre CoPilot e Lov
 
 ## Usando o CoPilot, para aperfeiçoar o PRD desenvolvido:
 >
-## 1. Prompt inicial utilizado com o CoPilot
+#### 1. Prompt inicial utilizado com o CoPilot
 
 ```
 Boa tarde, Copilot.
@@ -46,7 +46,7 @@ Muitas pessoas desistem de controlar seus gastos, pois os apps atuais:
 ```
 ---
 
-### 1.1. PRD revisado pelo Copilot, após o prompt inicial acima
+#### 1.1. PRD revisado pelo Copilot, após o prompt inicial acima
 ```
 ### 📱 PRD Revisado – Aplicativo de Organização de Finanças Pessoais Conversacional
 
@@ -133,6 +133,6 @@ Usuários frequentemente abandonam aplicativos de finanças porque:
 
 ---
 
-### 1.2. GIF mostrando a interação entre usuário e CoPilot.
+#### 1.2. GIF mostrando a interação entre usuário e CoPilot.
 ![prompt_inicial_e_resultado_final_PRD](https://github.com/user-attachments/assets/341329e4-6502-406e-8bb5-617eed1cb86d)
 >
