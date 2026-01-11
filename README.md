@@ -2,11 +2,11 @@
 Criação de um aplicativo de finanças pessoais, com uso de **Vibe Coding**.
 
 ---
-```
+
 ## 1. Prompt inicial utilizado
 Em conjunto com o PRD desenvolvido, foi obtida a resposta com o PRD analisado pelo Copilot:
 
-### Texto original
+```
 **Boa tarde, Copilot.**
 
 Criei o seguinte PRD (Product Requirements Document), para ser utilizado com a plataforma **Lovable**, para a criação de um aplicativo de controle de finanças, onde o usuário irá interagir por meio de conversas naturais, visando ter maior controle sobre suas finanças, hábitos de consumo e como guardar dinheiro, para projetos futuros.  
