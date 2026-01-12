@@ -159,13 +159,36 @@ https://github.com/user-attachments/assets/10cf6d8f-bb40-460f-842c-f4a9c6993efe
 ---
 
 ## 🔍 Funcionalidades do App de Organização Financeira - FinBot
+O aplicativo serve para o controle de receitas e despesas do usuário, onde ao falar com um assistente de forma natural, pode armazenar suas transações financeiras de forma rápida e efetiva, facilitando o controle financeiro de sua vida pessoal.
+O aplicativo visa simplificar a relação entre usuário e o seu dinheiro, ao permitir que por meios imples, como uma conversa, consiga registar suas operações  financeiras e ter uma relatório de tudo o que foi recebido e gasto, além de dicas essenciais para o dia-a-dia.
 O aplicativo foi dividido em 4 telas, onde:
 * Chat - Essa é a tela onde ocorrem as conversas do usuário com o aplicativo, onde pode informar o que recebeu e o que gastou, além de perguntar qual é o saldo total que possui, além de receber dicas ao perguntar ao chat;
 * Metas - Tela onde o usuário pode criar metas específicas e acompanhar o andamento das mesmas;
 * Relatórios - Exibe o total de despesas e receitas que estão registradas no sistema, além de informa por meio de um gráfico os gastos do usuário;
 * Dicas - Tela onde o aplicativo exibe uma série de dicas, para economizar dinheiro, onde gastar e como gastar e outras, para ajudar a criar um sentimento de constância no usuário, além de informar se o mesmo está no caminho certo.
 
-Usando o CoPilot, exibindo a tela inicial, o resumo das funcionalidades que forneceu foi o seguinte:
+Usando o CoPilot, colocando o print da tela inicial do sistema, nos forneceu o seguinte resumo das funcionalidades:
 ```
-# 📱 Resumo do Aplicativo de Finanças Pessoais Conversacional ## Nome: FinBot (Assistente Financeiro Pessoal) ## Objetivo Ajudar o usuário a organizar suas finanças de forma simples, prática e acessível, por meio de conversas naturais e amigáveis. ## Principais Funcionalidades - 💬 **Interação via chat**: O usuário conversa com o FinBot usando linguagem natural. - 🧾 **Registro de transações**: Basta dizer "Gastei R$50 no supermercado" ou "Recebi R$200 de salário" para registrar. - 📊 **Atualização de saldo**: O aplicativo calcula e exibe o novo saldo automaticamente. - 📈 **Relatórios e consultas**: O usuário pode perguntar "Quanto gastei esse mês?" e receber um resumo claro. - 🎯 **Metas financeiras**: Permite definir objetivos como economizar R$500 até o fim do mês. - 💡 **Dicas de economia**: O FinBot oferece sugestões validadas para melhorar hábitos financeiros. - 🚨 **Alertas inteligentes**: Notifica quando os gastos ultrapassam as entradas ou fogem do padrão habitual. ## Público-Alvo - Pessoas iniciantes em finanças. - Usuários que buscam praticidade e simplicidade. - Quem deseja controlar gastos sem lidar com planilhas ou interfaces complexas. ## Diferenciais - Interface conversacional intuitiva. - Tom amigável e educativo. - Foco em acessibilidade e motivação para poupar.
+# 📱 Resumo do Aplicativo de Finanças Pessoais Conversacional
+## Nome: FinBot (Assistente Financeiro Pessoal)
+
+## Objetivo Ajudar o usuário a organizar suas finanças de forma simples, prática e acessível, por meio de conversas naturais e amigáveis.
+
+## Principais Funcionalidades
+- 💬 **Interação via chat**: O usuário conversa com o FinBot usando linguagem natural.
+- 🧾 **Registro de transações**: Basta dizer "Gastei R$50 no supermercado" ou "Recebi R$200 de salário" para registrar.
+- 📊 **Atualização de saldo**: O aplicativo calcula e exibe o novo saldo automaticamente.
+- 📈 **Relatórios e consultas**: O usuário pode perguntar "Quanto gastei esse mês?" e receber um resumo claro.
+- 🎯 **Metas financeiras**: Permite definir objetivos como economizar R$500 até o fim do mês.
+- 💡 **Dicas de economia**: O FinBot oferece sugestões validadas para melhorar hábitos financeiros.
+- 🚨 **Alertas inteligentes**: Notifica quando os gastos ultrapassam as entradas ou fogem do padrão habitual.
+
+## Público-Alvo - Pessoas iniciantes em finanças.
+- Usuários que buscam praticidade e simplicidade.
+- Quem deseja controlar gastos sem lidar com planilhas ou interfaces complexas.
+
+## Diferenciais
+- Interface conversacional intuitiva.
+- Tom amigável e educativo.
+- Foco em acessibilidade e motivação para 
 ```
