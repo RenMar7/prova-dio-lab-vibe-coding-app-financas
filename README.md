@@ -1,10 +1,10 @@
 # 🎯 Desafio - Entrega do PRD e Lovable
-Aqui, baseado nas aulas assistidas de IA, do Bootcamp CAIXA - Inteligência Artificial na Prática, apresento o resultado final do meu projeto de criação de um aplicativo de finanças pessoais, com uso de **Vibe Coding**, com as ferramentas **CoPilot** e **Lovable**, para colocar em prática o aprendizado até o momento.
-Para facilitar a leitura do Read.me, dividir as interações entre CoPilot e Lovable, além de inserir os vídeos, com as interações feitas em cada etapa, para verificar o funcionamento e como foram feitas.
+Aqui, baseado nas aulas assistidas de IA, do Bootcamp CAIXA - Inteligência Artificial na Prática, apresento o resultado final do meu projeto de criação de um aplicativo de finanças pessoais, com uso de **Vibe Coding**, com as ferramentas **Copilot** e **Lovable**, para colocar em prática o aprendizado até o momento.
+Para facilitar a leitura do Read.me, dividir as interações entre Copilot e Lovable, além de inserir os vídeos, com as interações feitas em cada etapa, para verificar o funcionamento e como foram feitas.
 
-## 📝 Usando o CoPilot, para aperfeiçoar o PRD (Product Requirements Documents) desenvolvido:
+## 📝 Usando o Copilot, para aperfeiçoar o PRD (Product Requirements Documents) desenvolvido:
 >
-#### 1. Prompt inicial utilizado com o CoPilot
+#### 1. Prompt inicial utilizado com o Copilot
 
 >Boa tarde, Copilot.
 Criei o seguinte PRD (Product Requirements Document), para ser utilizado com a plataforma **Lovable**, para a criação de um aplicativo de controle de finanças, onde o usuário irá interagir por meio de conversas naturais, visando ter maior controle sobre suas finanças, hábitos de consumo e como guardar dinheiro, para projetos futuros.  
@@ -37,7 +37,7 @@ Muitas pessoas desistem de controlar seus gastos, pois os apps atuais:
 ```
 ---
 
-#### 1.1. PRD revisado pelo CoPilot, após o prompt inicial acima
+#### 1.1. PRD revisado pelo Copilot, após o prompt inicial acima
 ```
 ### 📱 PRD Revisado – Aplicativo de Organização de Finanças Pessoais Conversacional
 
@@ -124,13 +124,13 @@ Usuários frequentemente abandonam aplicativos de finanças porque:
 
 ---
 
-#### 1.2. GIF mostrando a interação entre usuário e CoPilot.
+#### 1.2. GIF mostrando a interação entre usuário e Copilot.
 ![prompt_inicial_e_resultado_final_PRD](https://github.com/user-attachments/assets/341329e4-6502-406e-8bb5-617eed1cb86d)
 >
 
 ---
 
-## 📝 Usando o Lovable, para criar o aplicativo de assistente de finanças, a partir do PRD analisado pelo CoPilot
+## 📝 Usando o Lovable, para criar o aplicativo de assistente de finanças, a partir do PRD analisado pelo Copilot
 
 
 #### 1. Prompts usados no Lovable
@@ -160,14 +160,14 @@ https://github.com/user-attachments/assets/10cf6d8f-bb40-460f-842c-f4a9c6993efe
 
 ## 🔍 Funcionalidades do App de Organização Financeira - FinBot
 O aplicativo serve para o controle de receitas e despesas do usuário, onde ao falar com um assistente de forma natural, pode armazenar suas transações financeiras de forma rápida e efetiva, facilitando o controle financeiro de sua vida pessoal.
-O aplicativo visa simplificar a relação entre usuário e o seu dinheiro, ao permitir que por meios imples, como uma conversa, consiga registar suas operações  financeiras e ter uma relatório de tudo o que foi recebido e gasto, além de dicas essenciais para o dia-a-dia.
+O aplicativo visa simplificar a relação entre usuário e o seu dinheiro, ao permitir que por meios simples, como uma conversa, consiga registar suas operações  financeiras e ter um relatório de tudo o que foi recebido e gasto, além de dicas essenciais para o dia-a-dia.
 O aplicativo foi dividido em 4 telas, onde:
 * Chat - Essa é a tela onde ocorrem as conversas do usuário com o aplicativo, onde pode informar o que recebeu e o que gastou, além de perguntar qual é o saldo total que possui, além de receber dicas ao perguntar ao chat;
 * Metas - Tela onde o usuário pode criar metas específicas e acompanhar o andamento das mesmas;
 * Relatórios - Exibe o total de despesas e receitas que estão registradas no sistema, além de informa por meio de um gráfico os gastos do usuário;
 * Dicas - Tela onde o aplicativo exibe uma série de dicas, para economizar dinheiro, onde gastar e como gastar e outras, para ajudar a criar um sentimento de constância no usuário, além de informar se o mesmo está no caminho certo.
 
-Usando o CoPilot, colocando o print da tela inicial do sistema, nos forneceu o seguinte resumo das funcionalidades:
+Usando o Copilot, colocando o print da tela inicial do sistema, nos forneceu o seguinte resumo das funcionalidades:
 ```
 # 📱 Resumo do Aplicativo de Finanças Pessoais Conversacional
 ## Nome: FinBot (Assistente Financeiro Pessoal)
@@ -192,3 +192,21 @@ Usando o CoPilot, colocando o print da tela inicial do sistema, nos forneceu o s
 - Tom amigável e educativo.
 - Foco em acessibilidade e motivação para 
 ```
+
+---
+
+## 🧠 Reflexão
+
+#### O que funcionou bem?
+Ao fazer o PRD e colocar no Copilot, me ajudou a entender melhor o que faltava nos requisitos e o que poderia ser melhorado, para trazer requisitos mais importantes e fieis ao projeto.
+Com relação ao Lovable, é fascinante uma ferramenta retornar tudo o que fez, baseado no PRD que colocamos. Ou seja, facilita e muito a criação de novos aplicativos - princípio do Low-Code/No-Code, permitindo que desenvolvedores e outros envolvidos possam atuar em demandas mais urgentes e importantes dos projetos, delegando essas partes iniciais para IA ou para obter um MVP de como deve ficar o sistema.
+Foi possível aprender nas interações com o Lovable - mesmo sendo limitadas, devidos aos créditos - como utilizar a IA para criar os aplicativos de forma rápida.
+
+#### O que não funcionou como o esperado?
+Mesmo fazendo o PRD e pedindo a revisão do Copilot, ao colocar no Lovable, o resultado final foi diferente do que desejava, pois acabou criando 4 botões de rodapé - um para cada ação (Chat, Metas, Relatórios e Dicas) - ao invés de sintetizar em uma tela única ou dividir de uma forma mais simples, visto que foi solicitado um UX mais simples para o aplicativo.
+Além disso, na parte de metas, criou o aplicativo com erro, pois não era possível criar novas metas.
+Outro problema foi com o chat, que não conseguiu entender expressões mais coloquiais, como: "recebi 3k de serviço", onde entendeu apenas 3 reais de receita, além de não ter integração com a parte de metas, dificultando a inserção dos dados, onde solicitamos claramente que não queríamos colocar dificuldade para o uso do app.
+Além disso, gostaria de corrigir mais o aplicativo, mas como existe a limitação da plataforma, não foi possível, mas no final de tudo, gostei do resultado final.
+
+#### O que aprendi sobre conversar com IAs?
+Que precisamos ser os mais claros e objetivos possíveis nos prompts, para obter as informações desejadas. Além disso, quanto mais contexto der para a IA e mais informações complementares, melhor é o resultado final.
