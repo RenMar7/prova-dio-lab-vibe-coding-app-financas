@@ -175,13 +175,13 @@ Usando o CoPilot, colocando o print da tela inicial do sistema, nos forneceu o s
 ## Objetivo Ajudar o usuário a organizar suas finanças de forma simples, prática e acessível, por meio de conversas naturais e amigáveis.
 
 ## Principais Funcionalidades
-- 💬 **Interação via chat**: O usuário conversa com o FinBot usando linguagem natural.
-- 🧾 **Registro de transações**: Basta dizer "Gastei R$50 no supermercado" ou "Recebi R$200 de salário" para registrar.
-- 📊 **Atualização de saldo**: O aplicativo calcula e exibe o novo saldo automaticamente.
-- 📈 **Relatórios e consultas**: O usuário pode perguntar "Quanto gastei esse mês?" e receber um resumo claro.
-- 🎯 **Metas financeiras**: Permite definir objetivos como economizar R$500 até o fim do mês.
-- 💡 **Dicas de economia**: O FinBot oferece sugestões validadas para melhorar hábitos financeiros.
-- 🚨 **Alertas inteligentes**: Notifica quando os gastos ultrapassam as entradas ou fogem do padrão habitual.
+- 💬 Interação via chat: O usuário conversa com o FinBot usando linguagem natural.
+- 🧾 Registro de transações: Basta dizer "Gastei R$50 no supermercado" ou "Recebi R$200 de salário" para registrar.
+- 📊 Atualização de saldo: O aplicativo calcula e exibe o novo saldo automaticamente.
+- 📈 Relatórios e consultas: O usuário pode perguntar "Quanto gastei esse mês?" e receber um resumo claro.
+- 🎯 Metas financeiras: Permite definir objetivos como economizar R$500 até o fim do mês.
+- 💡 Dicas de economia: O FinBot oferece sugestões validadas para melhorar hábitos financeiros.
+- 🚨 Alertas inteligentes: Notifica quando os gastos ultrapassam as entradas ou fogem do padrão habitual.
 
 ## Público-Alvo - Pessoas iniciantes em finanças.
 - Usuários que buscam praticidade e simplicidade.
