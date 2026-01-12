@@ -2,7 +2,7 @@
 Aqui, baseado nas aulas assistidas de IA, do Bootcamp CAIXA - Inteligência Artificial na Prática, apresento o resultado final do meu projeto de criação de um aplicativo de finanças pessoais, com uso de **Vibe Coding**, com as ferramentas **CoPilot** e **Lovable**, para colocar em prática o aprendizado até o momento.
 Para facilitar a leitura do Read.me, dividir as interações entre CoPilot e Lovable, além de inserir os vídeos, com as interações feitas em cada etapa, para verificar o funcionamento e como foram feitas.
 
-## Usando o CoPilot, para aperfeiçoar o PRD (Product Requirements Documents) desenvolvido:
+## 📝 Usando o CoPilot, para aperfeiçoar o PRD (Product Requirements Documents) desenvolvido:
 >
 #### 1. Prompt inicial utilizado com o CoPilot
 
@@ -130,7 +130,7 @@ Usuários frequentemente abandonam aplicativos de finanças porque:
 
 ---
 
-## Usando o Lovable, para criar o aplicativo de assistente de finanças, a partir do PRD analisado pelo CoPilot
+## 📝 Usando o Lovable, para criar o aplicativo de assistente de finanças, a partir do PRD analisado pelo CoPilot
 
 
 #### 1. Prompts usados no Lovable
@@ -143,9 +143,12 @@ PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
 
 >O chat deve entender linguagem coloquial também, pois se falo 3k, significa 3000. Além disso, adicione uma tela de login, para a segurança do aplicativo
 
+#### 2. Resultado Final do aplicativo
 Segue o link do aplicativo publicado na plataforma Lovable: https://buddy-finance-talk.lovable.app
+<img width="1916" height="957" alt="image" src="https://github.com/user-attachments/assets/8b7ebedc-32c2-47b9-a2bf-cd218e227505" />
 
-#### 2. Vídeos da interação com o Lovable e o aplicativo criado.
+
+#### 3. Vídeos da interação com o Lovable e o aplicativo criado.
 
 Parte 1
 https://github.com/user-attachments/assets/6d1ca453-23b5-4850-8251-28c875c036d9
@@ -153,6 +156,14 @@ https://github.com/user-attachments/assets/6d1ca453-23b5-4850-8251-28c875c036d9
 Parte 2
 https://github.com/user-attachments/assets/10cf6d8f-bb40-460f-842c-f4a9c6993efe
 
+---
 
+##🔍 Funcionalidades do App de Organização Financeira - FinBot
+O aplicativo foi dividido em 4 telas, onde:
+* Chat - Essa é a tela onde ocorrem as conversas do usuário com o aplicativo, onde pode informar o que recebeu e o que gastou, além de perguntar qual é o saldo total que possui, além de receber dicas ao perguntar ao chat;
+* Metas - Tela onde o usuário pode criar metas específicas e acompanhar o andamento das mesmas;
+* Relatórios - Exibe o total de despesas e receitas que estão registradas no sistema, além de informa por meio de um gráfico os gastos do usuário;
+* Dicas - Tela onde o aplicativo exibe uma série de dicas, para economizar dinheiro, onde gastar e como gastar e outras, para ajudar a criar um sentimento de constância no usuário, além de informar se o mesmo está no caminho certo.
 
-
+Usando o CoPilot, exibindo a tela inicial, o resumo das funcionalidades que forneceu foi o seguinte:
+# 📱 Resumo do Aplicativo de Finanças Pessoais Conversacional ## Nome: FinBot (Assistente Financeiro Pessoal) ## Objetivo Ajudar o usuário a organizar suas finanças de forma simples, prática e acessível, por meio de conversas naturais e amigáveis. ## Principais Funcionalidades - 💬 **Interação via chat**: O usuário conversa com o FinBot usando linguagem natural. - 🧾 **Registro de transações**: Basta dizer "Gastei R$50 no supermercado" ou "Recebi R$200 de salário" para registrar. - 📊 **Atualização de saldo**: O aplicativo calcula e exibe o novo saldo automaticamente. - 📈 **Relatórios e consultas**: O usuário pode perguntar "Quanto gastei esse mês?" e receber um resumo claro. - 🎯 **Metas financeiras**: Permite definir objetivos como economizar R$500 até o fim do mês. - 💡 **Dicas de economia**: O FinBot oferece sugestões validadas para melhorar hábitos financeiros. - 🚨 **Alertas inteligentes**: Notifica quando os gastos ultrapassam as entradas ou fogem do padrão habitual. ## Público-Alvo - Pessoas iniciantes em finanças. - Usuários que buscam praticidade e simplicidade. - Quem deseja controlar gastos sem lidar com planilhas ou interfaces complexas. ## Diferenciais - Interface conversacional intuitiva. - Tom amigável e educativo. - Foco em acessibilidade e motivação para poupar.
